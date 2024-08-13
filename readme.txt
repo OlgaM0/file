@@ -1,2 +1,2 @@
 hello world
-слияние веток
+replacement
